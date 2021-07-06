@@ -21,7 +21,7 @@ async def ping(ctx):
 
 @client.command(aliases=['8ball', 'test'])
 async def _8ball(ctx, *, question):
-    responses = ["Fuck yeah baby",
+    responses = ["Frick yeah baby",
                  "Definitely",
                  "For sure",
                  "Survey says 41% chance",
